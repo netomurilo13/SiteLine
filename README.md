@@ -1,16 +1,9 @@
-# flutter_webpage
+# Uma Landing Page 
 
-A new Flutter project.
+Um projeto de um site desenvolvido usando o framework flutter
 
-## Getting Started
+## Motivo
 
-This project is a starting point for a Flutter application.
+Este site foi desenvolvido pata atender as necessidades da startup Lin-e, na qual faço parte na área de desenvolvimento
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Um site simples, porém útil e responsivo
